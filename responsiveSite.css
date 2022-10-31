@@ -1,8 +1,55 @@
 .textstyle{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans ', sans-serif;
 }
 
 .navbar img{
-    width: 10px;
-    height: 20px;
+
+    width: 100px;
 }
+
+.nav-link{ 
+    color: white;
+    font-size: calc(1% + 0.10vw + 1.5vh); 
+    
+  }
+
+  .container-fluid .navbar-toggler{ 
+    border-color: #2196F3;
+     }
+
+     .text-popular{
+        font-family: 'Open Sans', sans-serif;
+        font-size: 30px;
+        text-align: center;
+        color: rgb(54, 54, 54);
+     }
+
+     .text-values{
+        font-family: 'Open Sans', sans-serif;
+        font-size: 15px;
+        text-align: start;
+        color: rgb(54, 54, 54);
+     }
+
+     .img-responsive{
+        width: 200px;
+        height: 300px;
+        padding: 20px;
+        
+     }
+
+     .img-responsive-rest{
+        width: 100px;
+        height: 130px;
+        padding: 6px;
+        
+     }
+     .popular-movies-items{
+        text-align: center;
+  
+     }
+
+     .rest-movies-items{
+        text-align: start;
+  
+     }
